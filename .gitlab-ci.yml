@@ -53,8 +53,8 @@ before_script:
   ## Optionally, if you will be using any Git commands, set the user name and
   ## email.
   ##
-  ## - git config --global user.email "darth@empire.com"
-  ## - git config --global user.name "Darth Vader"
+  #- git config --global user.email "darth@empire.com"
+  #- git config --global user.name "Darth Vader"
 
 
 Test SSH:
